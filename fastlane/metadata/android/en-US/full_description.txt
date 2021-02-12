@@ -1,4 +1,6 @@
 <p>This App shows you which foods are in Season right now and are thus available from nearby produce. Not only are they cheaper and tastier, but also their transport is less harmful to our environment.</p>
+<p>Currently the data is only available for the Central Europe region. More
+regions and languages are coming soon.</p>
 <p>
 <b>Features:</b>
 <br>* Boasts the biggest collection of foods
